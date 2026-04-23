@@ -1,0 +1,27 @@
+# Ling Cheng
+
+> Personal profile site for Ling Cheng, AI leader in computational biology and education technology.
+
+## About
+Ling Cheng works at the intersection of artificial intelligence and computational biology, currently leading AI work for PathCision Medicine in computational protein design and target discovery.
+
+## Key Topics
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Computational Biology
+- Computational Protein Design
+- Target Discovery
+- Natural Language Processing (NLP)
+- Education Technology
+
+## Primary Page
+- https://tlingf.github.io/
+
+## References
+- https://pathcisionmedicine.com/
+- https://innovationlabs.harvard.edu/articles/ai-roundup
+- https://quizlet.com/blog/meet-q-chat
+- https://medium.com/tech-quizlet/how-quizlet-does-smarter-grading-using-ml-and-nlp-to-grade-millions-of-answers-86514323e332
+- https://www.proteinplayer.com
+- https://lingandfriends.substack.com/
+- https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10
